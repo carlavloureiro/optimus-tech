@@ -1,6 +1,8 @@
 # OptimusTech - desenvolvendo para uma empresa fictícia
 
-![Logo da empresa](https://github.com/carlavloureiro/optimus-tech/assets/116118483/28224149-f6de-4275-bda1-8ccb2195f84e)
+![Logo da empresa](https://github.com/carlavloureiro/optimus-tech/assets/116118483/63b7af10-4972-449e-94d5-f13848f13941)
+
+
 Projeto desenvolvido a partir da proposta do desafio #7DaysOfCode (Alura), da instrutora Giovanna Moeller. 
 Essa página possui varias funcionalidades instricesas para o funcionamento da empresa: descrição das atividades da empresa, 
 anúncio de vagas disponíveis, campos de input para coletar e-mail de usuários, entre outros.
